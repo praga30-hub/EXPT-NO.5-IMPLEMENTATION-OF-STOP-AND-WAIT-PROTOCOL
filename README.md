@@ -5,7 +5,7 @@ To implement Stop and Wait protocol using NS2 program.
 
 # EQUIPMENTS REQUIRED
 1.	PC with ubuntu operating system
-2.	NS2 Software
+2.	NS2 Software.  
 
 # ALGORITHM
 Step 1: Start the program.
